@@ -1,7 +1,7 @@
 # ITRADE
 ITRADE
 
-DESCRIPCION DEL PROYECTO
+# DESCRIPCION DEL PROYECTO
 
 Posibilidad de analizar empresas en masa para una posible entrada compra, preferiblemente si la empresa es barata, comenzaremos con una empresa mockeada e iremos escalando la funcionalidad
 
@@ -14,7 +14,7 @@ A continuacion detallo las fases
 5.Escalar hasta un proceso automatizado de gran escala
 
 
-1.TECNOLOGIAS
+# 1.TECNOLOGIAS
 
 FRONT:
 
@@ -25,13 +25,13 @@ BACKEND: (Pendientes de confirmar)
 
 SERVIDOR: 
 
-2.Variables que necesitamos para un analisis óptimo
+# 2.Variables que necesitamos para un analisis óptimo
 
-3.Fuentes de datos
+# 3.Fuentes de datos
 
 Necesitamos información, estudiar todas las APIS gratuitas o programas avanzados de scraping que nos la puedan proporcionar. Hacer Scraping de forma manual en principio no es nuestro objetivo debido a la gran inversion de tiempo y la posible obsolesencia del codigo, buscar herramientas que puedan automatizar esto (mirar punto 3.2)
 
-3.1 APIS PÚBLICAS
+# 3.1 APIS PÚBLICAS
 
 PROBAR CADA UNA DE ELLAS Y ANALIZAR LA CALIDAD DE LOS DATOS PARA LOGRAR NUESTROS OBJETIVOS
 
@@ -109,10 +109,10 @@ Datos disponibles: Indicadores económicos, tasas de interés, datos de crecimie
 Límites: Acceso gratuito.
 URL: FRED API
 
-3.2 Fuentes de datos (Scraping)
+# 3.2 Fuentes de datos (Scraping)
 
 Scraping
 https://github.com/openbullet/openbullet
 
-4.COMPLETAR PASOS PREVIOS
-5.COMPLETAR PASOS PREVIOS
+# 4.COMPLETAR PASOS PREVIOS
+# 5.COMPLETAR PASOS PREVIOS
