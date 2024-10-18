@@ -17,7 +17,9 @@ Aplicación que permita analizar empresas en masa y que nos proporcione entradas
 
 
 **BACKEND: (Pendientes de confirmar)**
+
 -Python para analizar datos en masa y aplicar algoritmos complejos
+
 -NodeJS por agilidad y facilidad de implementar varios procesos paralelos
 
 **SERVIDOR:**
