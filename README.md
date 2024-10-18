@@ -5,13 +5,13 @@ ITRADE
 
 Posibilidad de analizar empresas en masa para una posible entrada compra, preferiblemente si la empresa es barata, comenzaremos con una empresa mockeada e iremos escalando la funcionalidad
 
-A continuacion detallo las fases
+## FASES
 
-1.Estudiar tecnologias mas adecuadas para este proposito
-2.Estudiar todas las variables a tener en cuenta para un analisis, ejemplo P/E
-3.Encontrar fuentes de datos de calidad
-4.Analizar una empresa a pincho
-5.Escalar hasta un proceso automatizado de gran escala
+- 1.Estudiar tecnologias mas adecuadas para este proposito
+- 2.Estudiar todas las variables a tener en cuenta para un analisis, ejemplo P/E
+- 3.Encontrar fuentes de datos de calidad
+- 4.Analizar una empresa a pincho
+- 5.Escalar hasta un proceso automatizado de gran escala
 
 
 # 1.TECNOLOGIAS
