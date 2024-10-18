@@ -16,14 +16,15 @@ Posibilidad de analizar empresas en masa para una posible entrada compra, prefer
 
 # 1.TECNOLOGIAS
 
-FRONT:
+**FRONT:**
 
 
-BACKEND: (Pendientes de confirmar)
+**BACKEND: (Pendientes de confirmar)**
 -Python para analizar datos en masa y aplicar algoritmos complejos
 -NodeJS por agilidad y facilidad de implementar varios procesos paralelos
 
-SERVIDOR: 
+**SERVIDOR:**
+Cloud?
 
 # 2.Variables que necesitamos para un analisis óptimo
 
