@@ -1,6 +1,3 @@
-# ITRADE
-ITRADE
-
 # DESCRIPCION DEL PROYECTO
 
 Aplicación que permita analizar empresas en masa y que nos proporcione entradas de compra. Buscamos empresas que potencialmente vayan a subir y evitamos las empresas "caras". Comenzaremos con una empresa simulada e iremos escalando la funcionalidad.
