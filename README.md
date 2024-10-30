@@ -25,6 +25,8 @@ Aplicación que permita analizar empresas en masa y que nos proporcione entradas
 **SERVIDOR:**
 Cloud?
 
+devops: maribel xd
+
 # 2.Variables que necesitamos para un analisis óptimo
 
 # 3.Fuentes de datos
